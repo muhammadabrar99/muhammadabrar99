@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://adaonatalino.medium.com/how-to-increase-the-security-of-your-application-rails-and-react-ab3adea4a2fd)"/>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
