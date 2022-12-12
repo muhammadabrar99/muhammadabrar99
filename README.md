@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://adaonatalino.medium.com/how-to-increase-the-security-of-your-application-rails-and-react-ab3adea4a2fd)"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*ygaHmPjQnVmEApdT.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabrar09&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabrar09" /> </p>
 
