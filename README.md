@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabrar09&label=Profile%20views&color=0e75b6&style=flat](https://github.com/account)" alt="muhammadabrar09" /> </p>
+<img align="right" width="400" src="https://github.com/rudrabarad/Gifs" alt="muhammadabrar09" />
 
-- 🌱 I’m currently learning **React JS**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabrar09&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabrar09" /> </p>
 
-- 🤝 I’m looking for help with **React JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **Html, CSS, JS, Bootstrap,**
 
-- 📫 How to reach me **muhammadabrar000999@gamil.com**
+- 📫 How to reach me **mabrar000999@gamil.com**
 
-- ⚡ Fun fact **You can call me Abro khan**
+- ⚡ Fun fact **I Love new Challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/abro_khan_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abro_khan_21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-abrar-0bb7b5231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abrar-0bb7b5231" height="30" width="40" /></a>
 <a href="https://fb.com/abrokhan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrokhan99" height="30" width="40" /></a>
 <a href="https://instagram.com/abro_khaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abro_khaan" height="30" width="40" /></a>
 </p>
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadabrar09&show_icons=true&locale=en" alt="muhammadabrar09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabrar09&" alt="muhammadabrar09" /></p>
-
