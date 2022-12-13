@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="200" src="https://media3.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif"/>
+<img align="center" alt="Coding" width="100%" height="200" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*ygaHmPjQnVmEApdT.gif"/>
